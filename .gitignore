@@ -33,3 +33,9 @@
 # Ignore application config.
 /.env.development
 /.env.*local
+# idea
+.idea/*
+
+# Elastic search
+/es-data/*
+
