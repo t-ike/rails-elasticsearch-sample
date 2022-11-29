@@ -16,6 +16,8 @@ gem "rails", "~> 7.0.4"
 gem "sprockets-rails"
 gem "stimulus-rails"
 gem "turbo-rails"
+gem "elasticsearch-model"
+gem "elasticsearch-rails"
 
 group :production do
   gem "postmark-rails"
