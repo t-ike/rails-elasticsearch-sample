@@ -17,6 +17,12 @@ On a Mac, you can obtain all of the above packages using [Homebrew][].
 
 If you need help setting up a Ruby development environment, check out this [Rails OS X Setup Guide](https://mattbrictson.com/rails-osx-setup-guide).
 
+t-ike's memo
+```shell
+$ brew install postgresql
+$ brew services start postgresql
+```
+
 ## Getting started
 
 ### bin/setup
